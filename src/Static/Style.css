@@ -1,0 +1,114 @@
+.for-button:hover
+{
+    color: #ffffff;
+    background-color: #EA6606;
+}
+.navbar-dark
+{
+    background-color: #F6FAFD;
+}
+.for-cards:hover
+{
+    box-shadow: 8px 8px 40px 40px #e5e5e5;  
+}
+.for-cards
+{
+    margin: 5%;
+}
+.for-listitems
+{
+    list-style-type: square;
+}
+.knowmore-part
+{
+    background: #f5f8ff;  
+    padding-top: 4px;
+}
+.request-a-free-quote
+{
+    margin: 5% 0 4% 0;   
+}
+.request-a-free-quote-para
+{
+    margin: 0 15% 10% 15%; 
+}
+.Founding-member
+{
+    margin-top: 16%;
+}
+/* .aboutus-part
+{
+    background: #f5f8ff; 
+    padding-top: 4px;  
+} */
+.for-footer
+{
+    background: #19291F;
+    padding: 5% 0 0 0;
+    color:#fff;
+}
+.quick-link
+{
+    padding: 0px 0px 0px 38%;
+    list-style-type: none;
+    color:#fff;
+}
+.hr-tag
+{
+    color:rgba(255,255,255,0.10);
+}
+.nav-link
+{
+    color:#212529 !important;
+}
+.nav-link:hover,.footer-link:hover
+{
+    color:#EA6606 !important;
+    text-decoration: none;
+}
+
+.navbar-toggler
+{
+    background-color: #EA6606;
+    outline: none !important;
+}
+.footer-para
+{
+  background-color: #EA6606;
+  height: 10px;
+}
+/* .ourteam-card:hover
+{
+  background-color: #EA6606;
+  color: #fff;
+} */
+.contactlink
+{
+    color: #000;
+   
+}
+.contactlink:hover
+{
+    color: #EA6606;
+    text-decoration: none;
+}
+.input-styles
+{
+    width: 80%;
+    border-radius: 5px;
+    border: 1px solid #EA6606;
+    padding: 10px;
+    outline: none !important; 
+    color: #EA6606;
+}
+.footer-link
+{
+    color:#fff !important;
+}
+/* .footer-link:hover
+{
+    color:#EA6606 !important;
+} */
+::placeholder {
+    color: #EA6606;
+}
